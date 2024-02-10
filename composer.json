@@ -1,5 +1,5 @@
 {
-    "name": "sysynkt/iso20022-pain",
+    "name": "sysynkt/iso20022-pain-uk",
     "type": "library",
     "license": "MIT",
     "description": "PHP library to generate UK pain.001 messages (complies with ISO-20022)",
